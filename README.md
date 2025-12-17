@@ -8,7 +8,6 @@ Ressources (completely optional):
 - The main ressource to complete the assignments are these three tutorials:
     - https://hmp.readthedocs.io/en/latest/notebooks/1-How_HMP_works.html
     - https://hmp.readthedocs.io/en/latest/notebooks/2-The_different_model_classes.html
-    - https://hmp.readthedocs.io/en/latest/notebooks/3-Applying_HMP_to_real_data.html
 - The paper on the method here (optional): https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00400/125469/Trial-by-trial-detection-of-cognitive-events-in
 - An application is presented here (optional): https://elifesciences.org/reviewed-preprints/108049
 - A recording of a similar lecture is on youtube here: https://youtu.be/MgrqA7jMSBw 
@@ -16,3 +15,5 @@ Ressources (completely optional):
 Folder Organization:
 - Course_RUG_2025_talk.pdf contains the slides
 - the assignment is the .ipynb
+
+In case of problems feel free to use my email (first slide of the .pdf)
